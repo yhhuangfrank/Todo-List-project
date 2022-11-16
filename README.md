@@ -8,4 +8,4 @@ A simple web application for recording todo-list
 
 ### Manage todo-list
 press the `v` button to complete
-press trash button to remove it from todo-list
+and press `trash` button to remove it from todo-list
