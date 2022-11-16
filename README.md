@@ -5,6 +5,7 @@ A simple web application for recording todo-list
 - record todo-list by time (month and date)
 - sorting todo-List by time
 - manage todo-list
+- keep todo-list when visiting again
 
 ### Manage todo-list
 press the `v` button to complete
